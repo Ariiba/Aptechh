@@ -1,0 +1,11 @@
+<html>
+
+<head></head>
+
+<body>
+
+<h2> WELCOME TO ADMISION PAGE ! </h2>
+
+</body>
+
+</html>

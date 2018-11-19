@@ -6,6 +6,8 @@
 
 <h2> WELCOME TO COURSE PAGE ! </h2>
 
+<h2> COURSE PAGE ! </h2>
+
 </body>
 
 </html>
